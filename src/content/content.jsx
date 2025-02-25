@@ -437,7 +437,7 @@ const content = {
           oferecer justiça e segurança jurídica àqueles que mais precisam.
           <br />
           <br />
-          Em 2023, tornei-me advogado e passei a atuar como audiencista e
+          Em 2024, tornei-me advogado e passei a atuar como audiencista e
           representante correspondente jurídico. Hoje, minha missão é prestar um
           atendimento humanizado e comprometido, garantindo que cada cliente
           tenha sua voz ouvida e seus direitos protegidos.
